@@ -1,0 +1,46 @@
+.all{
+  background-color: blue;
+  justify-content: center;
+  align-items: center;
+ }
+ .inputBox{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  
+  
+ }
+.btn1{
+  display:flex;
+  margin: 1px;
+  padding: 1px;
+  justify-content: center;
+  align-items: center;
+  
+
+}
+.btn2{
+  display:flex;
+  margin: 1px;
+  padding: 1px;
+  justify-content: center;
+  align-items: center;
+
+}
+.btn3{
+  display:flex;
+  margin: 1px;
+  padding: 1px;
+  justify-content: center;
+  align-items: center;
+}
+.btn4{
+  display:flex;
+  margin: 1px;
+  padding: 1px;
+  justify-content: center;
+  /* align-items: center; */
+}
+.equal{
+  width: 50px;
+}
